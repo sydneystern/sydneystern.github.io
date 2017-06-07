@@ -1,8 +1,10 @@
 body {
     background-color: red;
-    color: pink;
-    font-family: "monotype corsiva";
+    color: black;
+    font-family: "arial";
+    font: cursive;
     text-align: center;
 }
-
-
+img {
+    width: 200px;
+}
